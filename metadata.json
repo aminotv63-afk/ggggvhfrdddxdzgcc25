@@ -1,0 +1,8 @@
+{
+  "name": "Sultan Vertical Arena",
+  "description": "Navigate a smooth vertical map with optimized controls, persistent fog boundaries, and lag-free performance for mobile devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
